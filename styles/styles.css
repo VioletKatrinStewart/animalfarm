@@ -43,5 +43,18 @@ flex-wrap: wrap;
 
 .animals img {
     width: 200px;
+    height: 200px;
     margin: 20px;
+}
+
+.animals div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+span {
+    text-align: center;
+    color: fuchsia;
+    background-color: black;
 }
