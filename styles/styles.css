@@ -33,3 +33,15 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+.animals {
+object-fit: cover;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+.animals img {
+    width: 200px;
+    margin: 20px;
+}
